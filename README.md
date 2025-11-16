@@ -1,4 +1,5 @@
-Excel-file
+<a href="https://doi.org/10.5281/zenodo.17625682"><img src="https://zenodo.org/badge/1055075703.svg" alt="DOI"></a>
+
 Repository for the creation of the Excel file with the e-commerce exercise 
 
 I have created an Excel file for the e-commerce shop exercise in the higher education courses using Python. This package includes interconnected sheets for financial analysis. 
