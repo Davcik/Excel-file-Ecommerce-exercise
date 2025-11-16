@@ -1,7 +1,7 @@
-Excell-file
+Excel-file
 Repository for the creation of the Excel file with the e-commerce exercise 
 
-I have created an Excel file as the e-commerce exercise for the higher education courses shop that includes interconnected sheets for financial analysis. 
+I have created an Excel file for the e-commerce shop exercise in the higher education courses using Python. This package includes interconnected sheets for financial analysis. 
 The file contains three main worksheets with structured data and relationships between key business assumptions.
 
 
